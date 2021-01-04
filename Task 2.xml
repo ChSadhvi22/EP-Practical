@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students_info>
+   <student>
+      <id>111</id>
+      <regno>19001</regno>
+      <name>A</name>
+      <avg>90</avg>
+      <dob>09-06-2002</dob>
+      <time>9.00</time>
+      <phno>9000059999</phno>
+      <distinction>yes</distinction>
+   </student>
+   <student>
+      <id>112</id>
+      <regno>19002</regno>
+      <name>B</name>
+      <avg>85</avg>
+      <dob>01-06-2001</dob>
+      <time>8.00</time>
+      <phno>9006659999</phno>
+      <distinction>yes</distinction>
+   </student>
+  <student>
+      <id>113</id>
+      <regno>19023</regno>
+      <name>C</name>
+      <avg>92</avg>
+      <dob>20-10-2001</dob>
+      <time>8.00</time>
+      <phno>9000057779</phno>
+      <distinction>yes</distinction>
+   </student>
+  <student>
+      <id>114</id>
+      <regno>19042</regno>
+      <name>D</name>
+      <avg>92</avg>
+      <dob>10-02-2002</dob>
+      <time>8.00</time>
+      <phno>9120059999</phno>
+      <distinction>yes</distinction>
+</student>
+    <student>
+      <id>115</id>
+      <regno>19030</regno>
+      <name>E</name>
+      <avg>85</avg>
+      <dob>18-02-2001</dob>
+      <time>9.00</time>
+      <phno>9004559999</phno>
+      <distinction>yes</distinction>
+</student>
+</Students_info>
+
